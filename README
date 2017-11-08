@@ -1,3 +1,5 @@
 Simple Auto generate id and CRUD operation with codeigniter.
 
 ###########################################################
+
+To get the auto code, Just call `$isi['kode'] = $this->model_customer->buat_kode();`
